@@ -10,3 +10,4 @@ fish -c "fisher add fisherman/z"
 fish -c "fisher add edc/bass"
 fish -c "fisher add 0rax/fish-bd"
 fish -c "fisher add oh-my-fish/plugin-balias"
+chsh
